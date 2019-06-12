@@ -4,7 +4,7 @@ We split into 4 groups of 3 or 4 people and tried to bring the following design 
 
 ## Design
 
-[![INSERT YOUR GRAPHIC HERE](https://dribbble.com/shots/6518747-Podcast-App-Exploration/attachments)]()
+![Dribble Design Used](https://cdn.dribbble.com/users/345970/screenshots/6518747/podcast.png)
 
 This design was taken from [dribbble](https://dribbble.com/shots/6518747-Podcast-App-Exploration) and was made by [Ghani Pradita](https://dribbble.com/ghanipradita).
 
